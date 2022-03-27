@@ -1,7 +1,7 @@
 # virtualbiopsy
 Code for the virtual biopsy project.
 
-# Inout data 
+# Input data 
 
 All data used here lies inside input_data or pkls folder. 
 
